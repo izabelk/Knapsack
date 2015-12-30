@@ -1,6 +1,0 @@
-D:\Universitet\Izkustven intelekt\Homework\KnapsackImplementation\Knapsack\bin\Debug\Knapsack.exe.config
-D:\Universitet\Izkustven intelekt\Homework\KnapsackImplementation\Knapsack\bin\Debug\Knapsack.exe
-D:\Universitet\Izkustven intelekt\Homework\KnapsackImplementation\Knapsack\bin\Debug\Knapsack.pdb
-D:\Universitet\Izkustven intelekt\Homework\KnapsackImplementation\Knapsack\obj\Debug\Knapsack.csprojResolveAssemblyReference.cache
-D:\Universitet\Izkustven intelekt\Homework\KnapsackImplementation\Knapsack\obj\Debug\Knapsack.exe
-D:\Universitet\Izkustven intelekt\Homework\KnapsackImplementation\Knapsack\obj\Debug\Knapsack.pdb
